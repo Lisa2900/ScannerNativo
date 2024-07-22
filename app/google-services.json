@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "63608063835",
+    "firebase_url": "https://peque-daf69-default-rtdb.firebaseio.com",
+    "project_id": "peque-daf69",
+    "storage_bucket": "peque-daf69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63608063835:android:5b61e32840c119cd367c7e",
+        "android_client_info": {
+          "package_name": "com.example.scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcakQx4vDQqbxXEiMW_ncCX7ffMx4WKuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63608063835:android:d882ca6d26c83702367c7e",
+        "android_client_info": {
+          "package_name": "com.example.scanpeque"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcakQx4vDQqbxXEiMW_ncCX7ffMx4WKuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
